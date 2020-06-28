@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Error - 3urobeat</title>
+		<title>Steam Comment Service Bot - 3urobeat</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
@@ -29,7 +29,7 @@
 									<li><a href="steam-comment-service-bot"> Steam Comment Bot</a></li>
 									<li><a href="beepBot"> beepBot</a></li>
 									<li><a href="https://github.com/HerrEurobeat" target="_blank"> GitHub</a></li>
-                                    <li><a href="errorrefresh" class="icon fa-refresh">&nbsp;&nbsp;Refresh</a></li>
+                                    <li><a href="steam-comment-service-bot" class="icon fa-refresh">&nbsp;&nbsp;Refresh</a></li>
 								</ul>
 							</li>
 						</ul>
@@ -39,11 +39,19 @@
 			<!-- Main -->
 				<section id="main" class="container">
 					<header>
-						<h2>Error</h2>
-						<p>You need an error? Take this one!</p>
+						<h2>Steam Comment Service Bot</h2>
+						<p>Steam Comment Bot - Request multiple profile comments by texting a bot network!</p>
 					</header>
-					<div class="row">
-						<div class="12u">
+					<div class="box">
+                        <h3><a href="https://steamcommunity.com/id/3urobeatscommentbot" target="_blank">Click me to see it in action!</a></h3>
+						<a href="https://steamcommunity.com/id/3urobeatscommentbot" target="_blank"><img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/b8/b8fd13898864c9ccbdbfeb06450cc8cc7f8264e4_full.jpg" alt="beepBot Avatar" style="float:right;width:151px;height:151px;"></a>
+                        <p>Check out my GitHub repository to download and use it yourself: <a href="https://github.com/HerrEurobeat/steam-comment-service-bot" target="_blank">Click me.</a>
+						<br>You can also watch my YouTube Tutorial: <a href="https://www.youtube.com/watch?v=gmA-ccD05g4" target="_blank">Click me.</a></br></p>
+						<p>If you want to support me you can donate here: <a href="https://paypal.me/3urobeat" target="_blank">Click me.</a><br>I would really appreciate it!</br></p>
+
+						<img src="https://drive.google.com/uc?export=view&id=1FAzvJBbYys9tGePCD8Gc2VEjg3gHIT7y" alt="Showcase" style="float:middle;width:935px;height:438px;">
+					</div>
+				</section>
 
 			<!-- Footer -->
 				<footer id="footer">
@@ -61,8 +69,6 @@
 			<script src="assets/js/util.js"></script>
 			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
 			<script src="assets/js/main.js"></script>
-                    </div>
-            </section>
-        </div>
-    </body>
+
+	</body>
 </html>
